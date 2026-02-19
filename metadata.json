@@ -1,0 +1,9 @@
+
+{
+  "name": "SocialStream - Modern FB Clone",
+  "description": "A high-performance Facebook clone featuring real-time AI-powered news, social reels, feed management, and persistent authentication with Guest mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
